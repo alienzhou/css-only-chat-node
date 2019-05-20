@@ -1,0 +1,12 @@
+{
+  "name": "css-only-chat-node",
+  "version": "1.0.0",
+  "description": "A truly monstrous async web chat using no JS whatsoever on the frontend (NodeJS version)",
+  "main": "server/app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "alienzhou",
+  "license": "MIT",
+  "dependencies": {}
+}
