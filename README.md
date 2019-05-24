@@ -12,7 +12,7 @@ This is a [NodeJS](https://nodejs.org) version for [@kkuchta/css-only-chat](http
 
 CSS-only Chat is an asynchronous chat that sends + receives messages in the browser with no reloads and no javascript. This repository use all the tricks mentioned in css-only-chat to build a NodeJS version.
 
-To make it simple, this repository uses an in-memory cache (`cache.js` module) to replace Redis.
+To make it simple, this repository uses an in-memory cache module (`cache.js` file) to replace Redis.
 
 ## How it works
 
