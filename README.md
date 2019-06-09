@@ -18,7 +18,7 @@ To make it simple, this repository uses an in-memory cache module (`cache.js` fi
 
 - use pseudo-class `:active` to catch the click event
 - use attribute `background-image` to send data
-- use stream in response to update the page without JavaScript
+- use stream in the response to update the page without JavaScript
 
 For more details, please visit [@kkuchta/css-only-chat](https://github.com/kkuchta/css-only-chat).
 
@@ -26,7 +26,7 @@ For more details, please visit [@kkuchta/css-only-chat](https://github.com/kkuch
 
 No external dependency. Just need a NodeJS runtime.
 
-Supposing you have installed NodeJS, just run
+Supposing you have [installed NodeJS](https://nodejs.org/en/download/), just run
 
 ```bash
 npm start
